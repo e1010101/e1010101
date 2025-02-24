@@ -15,7 +15,7 @@ I'm a passionate about the fascinating realms of AI and machine learning. My jou
 - 👁️ Computer Vision
 - 🗣️ Natural Language Processing
 - 🎨 Generative AI
-- 🛠️ Building projects with cutting-edge technologies
+- 🛠️ Software Testing
 
 I'm always eager to learn and apply new concepts, turning ideas into reality through code. Check out my repositories to see what I'm currently working on!
 <br>
