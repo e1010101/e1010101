@@ -10,7 +10,7 @@
 <p align = "left" width="50%">
 Hi, I'm Ezra, a Computer Science student 👨🏻‍💻 from Singapore.<br>
 <br>
-I'm a passionate about the fascinating realms of AI and machine learning. My journey revolves around:
+I'm a passionate about the fascinating realms of AI, machine learning and software testing. My journey revolves around:
 
 - 👁️ Computer Vision
 - 🗣️ Natural Language Processing
